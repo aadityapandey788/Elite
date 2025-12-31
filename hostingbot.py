@@ -1,8 +1,8 @@
 # ============================================================
 # Copyright and Credits:
-# Developer: @Gamer_49
+# Developer: @Elite_shot10000
 # 
-# Warning: If you change these credits, you're a failure and I won't forgive you on Judgment Day.
+# Warning: If you change these credits, you are son of @Elite_shot10000 and I won't forgive you on Judgment Day.
 # ============================================================
 
 import sys
